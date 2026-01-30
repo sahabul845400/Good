@@ -1,0 +1,23 @@
+# Zenith Chain
+
+Zenith Chain is a modular Layer 1 blockchain prototype designed for scalability and application-specific infrastructure.
+
+## Overview
+
+This project demonstrates the basic architecture of a customizable blockchain network. It is designed to explore consensus mechanisms, modular execution layers, and token integration.
+
+## Features
+
+- Modular architecture
+- Basic consensus simulation
+- Token support structure
+- Easy customization
+
+## Purpose
+
+This repository is created for educational and experimental purposes to explore blockchain infrastructure design.
+
+## Status
+
+🚧 Work in progress – prototype stage.
+
